@@ -1,0 +1,40 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0; 
+  }
+  .head1 {
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    border-radius: 45px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); 
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    transition: .5s;
+  }
+
+  .head1:hover{
+    transform: scale(1.1);
+  }
+  
+  .div1-head h1{
+    font-size: 24px;
+    margin-bottom: 2px;
+  }
+  .div1-head h2{
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .div1-head h4{
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+
+  
