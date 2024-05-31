@@ -1,1 +1,0 @@
-let preciop = document.getElementById()
